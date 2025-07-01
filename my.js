@@ -1,1 +1,2 @@
-console.log("ajay");
+console.log("Ajay");
+console.log("Rajput")
